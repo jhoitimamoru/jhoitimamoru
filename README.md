@@ -17,6 +17,9 @@
 
  </div>
 
+### 🎓 Certifications
+[![HashiCorp Ambassador 2024](https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main)](http://www.credly.com/badges/f1701bc1-1d0b-4584-92e2-32359429c62d "HashiCorp Ambassador 2024")
+
 <!--
 **jhoitimamoru/jhoitimamoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
