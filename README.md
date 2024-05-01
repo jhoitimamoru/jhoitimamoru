@@ -18,10 +18,14 @@
  </div>
 <div align="center">
 <h3 align="center">🎓 Azure Certifications</h3>
- </div>
+</div>
 <div align="center">
-
-[<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-900.png" alt="alt text" width="100" height="100">](https://learn.microsoft.com/api/credentials/share/pt-br/JhoitiMamoruKagawa/85CE950FB8F14F2B?sharingId=4E41D81EC95D41CA)
+    
+[<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-900.png" alt="alt text" width="100" height="100"/>](https://learn.microsoft.com/api/credentials/share/pt-br/JhoitiMamoruKagawa/85CE950FB8F14F2B?sharingId=4E41D81EC95D41CA) 
+[<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/SC-900.png" alt="alt text" width="100" height="100"/>](https://learn.microsoft.com/api/credentials/share/pt-br/JhoitiMamoruKagawa/4D8CFD14BF00B694?sharingId=4E41D81EC95D41CA)
+[<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-104.png" alt="alt text" width="100" height="100"/>](https://learn.microsoft.com/api/credentials/share/pt-br/JhoitiMamoruKagawa/D5F7BDC9132DE229?sharingId=4E41D81EC95D41CA)
+[<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-140.png" alt="alt text" width="100" height="100"/>](https://learn.microsoft.com/api/credentials/share/pt-br/JhoitiMamoruKagawa/E1B4064BDF736131?sharingId=4E41D81EC95D41CA)
+[<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-305.png" alt="alt text" width="100" height="100"/>](https://learn.microsoft.com/api/credentials/share/pt-br/JhoitiMamoruKagawa/FC6A90323B35CBC1?sharingId=4E41D81EC95D41CA)
 
 </div>
 <!--
