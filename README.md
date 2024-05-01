@@ -16,13 +16,20 @@
 
 
  </div>
+<div align="center">
+<h3 align="center">🎓 Azure Certifications</h3>
+ </div>
+<div align="center">
 
-### 🎓 Certifications
-[![HashiCorp Ambassador 2024](https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-900.png)](http://www.credly.com/badges/f1701bc1-1d0b-4584-92e2-32359429c62d "HashiCorp Ambassador 2024")
+[<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-900.png" alt="alt text" width="100" height="100">](https://learn.microsoft.com/api/credentials/share/pt-br/JhoitiMamoruKagawa/85CE950FB8F14F2B?sharingId=4E41D81EC95D41CA)
 
- <img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-900.png" alt="alt text" width="100" height="100">
-
+</div>
 <!--
+<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-900.png" alt="alt text" width="100" height="100">
+<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-104.png" alt="alt text" width="100" height="100">
+<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-305.png" alt="alt text" width="100" height="100">
+<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/AZ-140.png" alt="alt text" width="100" height="100">
+<img src="https://raw.githubusercontent.com/jhoitimamoru/jhoitimamoru/main/Img/SC-900.png" alt="alt text" width="100" height="100">
 **jhoitimamoru/jhoitimamoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
